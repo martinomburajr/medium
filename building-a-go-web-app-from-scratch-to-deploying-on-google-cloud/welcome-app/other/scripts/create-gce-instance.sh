@@ -1,0 +1,1 @@
+gcloud compute instances create welcome-app-instance-v2 --zone=europe-north1-a --metadata-from-file startup-script=welcome-app-startup.sh
