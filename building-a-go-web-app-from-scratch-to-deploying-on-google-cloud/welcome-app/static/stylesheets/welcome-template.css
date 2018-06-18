@@ -1,0 +1,19 @@
+body  {
+	min-height:100%;
+	background-image: url("/static/stylesheets/background.jpeg"), linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3));
+	background-blend-mode: overlay;
+	background-size:cover
+}
+
+.welcome {
+	font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif';
+	font-size: 3rem;
+	color: aliceblue;
+}
+
+.center {
+	height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}​
