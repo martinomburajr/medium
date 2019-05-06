@@ -1,0 +1,6 @@
+runtime: go
+env: flex
+
+resources:
+  cpu: 2
+  memory_gb: 3
