@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5c80818-99bf-49a8-8986-1472d966a747" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stl/syscall/osvssyscall.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl/syscall/osvssyscall_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl/syscall/testdata/large.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl/syscall/testdata/small.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stl/net/handlehandlerhandlerfunc/.idea/handlehandlerhandlerfunc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stl/net/handlehandlerhandlerfunc/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stl/net/handlehandlerhandlerfunc/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stl/net/handlehandlerhandlerfunc/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorials/building-a-simple-server/app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/building-a-simple-server/app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stl/syscall/osvssyscall_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/stl/syscall/osvssyscall_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stl/syscall/osvssyscall_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="175">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -116,6 +108,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -255,13 +248,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/stl/syscall/osvssyscall_test.go</url>
-          <line>32</line>
+          <line>27</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/stl/syscall/osvssyscall_test.go</url>
-          <line>38</line>
+          <line>33</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
@@ -285,8 +278,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stl/syscall/osvssyscall_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        <state relative-caret-position="175">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

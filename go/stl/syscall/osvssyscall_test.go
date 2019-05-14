@@ -9,11 +9,6 @@ import (
 var smallLength = getBytesInFile("testdata/small.txt")
 var largeLength = getBytesInFile("testdata/large.txt")
 
-//func init() {
-//	smallLength = getBytesInFile("testdata/small.txt")
-//	largeLength = getBytesInFile("testdata/large.txt")
-//}
-
 func getBytesInFile(filepath string) int {
 	//t.Helper()
 
