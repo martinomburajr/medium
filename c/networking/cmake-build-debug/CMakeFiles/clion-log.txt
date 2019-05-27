@@ -1,0 +1,1 @@
+Environment (MinGW/Cygwin/Visual Studio/WSL/Remote Host) is not selected Configure
